@@ -1,4 +1,3 @@
-#### ALL
 [Adobe]: https://helpx.adobe.com/security.html
 [Apache]: https://httpd.apache.org/security/
 [jenkins]: https://jenkins.io/security/advisories/
